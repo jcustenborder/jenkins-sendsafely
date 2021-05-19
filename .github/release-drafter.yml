@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: jenkins-sendsafely-$NEXT_MINOR_VERSION
